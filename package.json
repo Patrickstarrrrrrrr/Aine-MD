@@ -27,16 +27,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Aiinne",
+    "homepage": "https://github.com/Patrickstarrrrrrrr",
     "author": {
         "name": "Dian"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aiinne"
+        "url": "git+https://github.com/Patrickstarrrrrrrr"
     },
     "bugs": {
-        "url": "https://github.com/Aiinne"
+        "url": "https://github.com/Patrickstarrrrrrrr"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
